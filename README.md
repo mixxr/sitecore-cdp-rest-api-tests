@@ -1,5 +1,5 @@
 # Test the API
-Note: In the following the ID b366acee-cc56-4290-8cbe-b40b0a007046 is just for example, use the correct one.
+Note: In the following the ID `b366acee-cc56-4290-8cbe-b40b0a007046` is just for example, use the correct one.
 
 - retrieve a guest by email, eg:
     - ./get-guest-byemail.sh <your@email.com>
